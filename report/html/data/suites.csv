@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 20 19:12:12 CST 2025","Sun Jul 20 19:12:14 CST 2025","1768","testcases","test_front_toubiao","","","","test_toubiao_fail1[1000-66666-\u652f\u4ed8\u5bc6\u7801\u9519\u8bef]",""
+"broken","Sun Jul 20 19:12:16 CST 2025","Sun Jul 20 19:12:17 CST 2025","1452","testcases","test_front_toubiao","","","","test_toubiao_fail1[3000-6668866-\u652f\u4ed8\u5bc6\u7801\u9519\u8bef]",""
+"passed","Sun Jul 20 19:12:14 CST 2025","Sun Jul 20 19:12:15 CST 2025","1426","testcases","test_front_toubiao","","","","test_toubiao_fail1[2000-6668866-\u652f\u4ed8\u5bc6\u7801\u9519\u8bef]",""
