@@ -5,7 +5,7 @@
 
 Perfect for learning, regression testing, and CI/CD integration.
 
----
+
 
 ## 项目简介
 
@@ -15,6 +15,4 @@ Perfect for learning, regression testing, and CI/CD integration.
 - 学习自动化测试
 - 回归测试
 - 持续集成（CI/CD）流程
-
----
 
